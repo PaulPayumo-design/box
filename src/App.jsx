@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Header surname="Payumo" />
+      <Header surname="PAYUMO" />
       <Box subjectCode="C-PEITEL3" />
     </div>
   );
